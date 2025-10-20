@@ -20,7 +20,7 @@
         &nbsp; - <span style="color:#FFC000;">Objective:</span> Work with my passions<br>
         &nbsp; - <span style="color:#FFC000;">Side quests:</span> Making my own OS<br>
         &nbsp; - <span style="color:#FFC000;">Hobbies:</span> computers, tea, chill games, music, linux<br>
-        &nbsp; - <span style="color:#FFC000;">Favorite OS:</span> Fedora, Windows,<br>
+        &nbsp; - <span style="color:#FFC000;">Favorite OS:</span> Fedora (current), Windows, Arch, Endeavour<br>
         &nbsp; - <span style="color:#FFC000;">My Experiences:</span> Git, Github, AzureDevops,<br>
         &nbsp; Proteus, Java, Python, C, Rust, C++, Bash, Powershell,<br>
         &nbsp; Blender, MATLAB, HTML, CSS, JS, MarkDown, SQL, MySQL,<br>
