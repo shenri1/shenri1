@@ -9,18 +9,17 @@
   <div align="right">
     <p align="left">
       <samp>
-        &nbsp; kiamisa@github<br>
+        &nbsp; shenri@github<br>
         &nbsp; --------------<br>
         &nbsp; - <span style="color:#FFC000;">Name:</span> Silas Henrique<br>
-        &nbsp; - <span style="color:#FFC000;">Nickame:</span> Kiamisa<br>
         &nbsp; - <span style="color:#FFC000;">Languages:</span> pt_br, en_us<br>
         &nbsp; - <span style="color:#FFC000;">Studying:</span> Computer Engineering<br>
         &nbsp; - <span style="color:#FFC000;">Experience:</span> Data Analysis, Data Engineering (learning), <br>
         &nbsp; Backend Development, Electronic, OS<br>
-        &nbsp; - <span style="color:#FFC000;">Objective:</span> Work with my passions<br>
-        &nbsp; - <span style="color:#FFC000;">Side quests:</span> Making my own OS<br>
-        &nbsp; - <span style="color:#FFC000;">Hobbies:</span> computers, tea, chill games, music, linux<br>
-        &nbsp; - <span style="color:#FFC000;">Favorite OS:</span> Fedora (current), Windows, Arch, Endeavour<br>
+        &nbsp; - <span style="color:#FFC000;">Objective:</span> Work and be happy<br>
+        &nbsp; - <span style="color:#FFC000;">Side quests:</span> Making projects I like<br>
+        &nbsp; - <span style="color:#FFC000;">Hobbies:</span> computers, tea, chill games, music<br>
+        &nbsp; - <span style="color:#FFC000;">Favorite OS:</span> Fedora (current), Windows (games), FreeBSD (hobbie)<br>
         &nbsp; - <span style="color:#FFC000;">My Experiences:</span> Git, Github, AzureDevops,<br>
         &nbsp; Proteus, Java, Python, C, Rust, C++, Bash, Powershell,<br>
         &nbsp; Blender, MATLAB, HTML, CSS, JS, MarkDown, SQL, MySQL,<br>
@@ -30,8 +29,7 @@
     </p>
   </div>
       <samp>
-      • <a href="https://kiam-sh.vercel.app/">Portifolio Site</a> •
-      <a href="https://www.linkedin.com/in/silas-cerqueira/">LinkedIn</a> •
+      • <a href="https://www.linkedin.com/in/silas-cerqueira/">LinkedIn</a> •
     </samp>
  </div>
 </div>
