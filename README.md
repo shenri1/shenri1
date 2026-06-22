@@ -27,7 +27,7 @@
     </p>
   </div>
       <samp>
-      • <a href="https://www.linkedin.com/in/silas-cerqueira/">LinkedIn</a> •
+      • <a href="https://www.linkedin.com/in/silas-cerqueira/">LinkedIn</a> • <a href="https://silashmc.vercel.app/">Portifolio</a>
     </samp>
  </div>
 </div>
