@@ -11,16 +11,14 @@
       <samp>
         &nbsp; shenri@github<br>
         &nbsp; --------------<br>
-        &nbsp; - <span style="color:#FFC000;">Name:</span> Silas Henrique<br>
-        &nbsp; - <span style="color:#FFC000;">Languages:</span> pt_br, en_us<br>
+        &nbsp; - <span style="color:#FFC000;">Name:</span> Silas Cerqueira<br>
+        &nbsp; - <span style="color:#FFC000;">Languages:</span> br, en<br>
         &nbsp; - <span style="color:#FFC000;">Studying:</span> Computer Engineering<br>
-        &nbsp; - <span style="color:#FFC000;">Experience:</span> Data Analysis, Data Engineering (learning), <br>
-        &nbsp; Backend Development, Electronics, OS<br>
-        &nbsp; - <span style="color:#FFC000;">Objective:</span> Work and be happy<br>
+        &nbsp; - <span style="color:#FFC000;">Experience:</span> Data Analysis & Engineering, Fullstack, AI <br>
         &nbsp; - <span style="color:#FFC000;">Hobbies:</span> Movies, music, books<br>
         &nbsp; - <span style="color:#FFC000;">Favorite OS:</span> Fedora (Development), Windows (Games)<br>
-        &nbsp; - <span style="color:#FFC000;">My Experiences:</span> Git, Github, AzureDevops,<br>
-        &nbsp; Java, Python, C, Rust, Bash, Powershell, Jenkins<br>
+        &nbsp; - <span style="color:#FFC000;">Knowledge:</span> Git, Github, AzureDevops,<br>
+        &nbsp; Java, Python, C, Rust, Bash/Zsh, Powershell, Jenkins<br>
         &nbsp; MATLAB, HTML, CSS, JS, SQL, PowerBI, Office<br>
         &nbsp;  <img src="./assets/Images/Pallete.png" width="35%" style="margin-top: 10px;">
       </samp>
