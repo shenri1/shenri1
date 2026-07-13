@@ -19,8 +19,7 @@ Shell:      Bash / Zsh / PowerShell
 Langs:      Java, Python, C, Rust, JS, SQL
 Tools:      Git, Azure DevOps, Jenkins
             Power BI
-
-🟨 🟧 🟥 🟪 🟦 🟩
+<img src="./assets/Images/Pallete.png" width="280">
 </pre>
 
 </td>
