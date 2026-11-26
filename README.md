@@ -37,10 +37,10 @@ Tools:      Git, Azure DevOps, Jenkins
 ## 📊 GitHub Stats
 
 <p align="center">
-            <img src="https://ghstats.dev/api/langs?username=shenri1" alt="Top Languages" />
-</p>
-<p align="center">
-            <img src="https://ghstats.dev/api/card?username=shenri1&border_radius=0" alt="GitHub Stats Card" />
+              <img src="https://github-readme-stats.vercel.app/api?username=shenri1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=e040fb&text_color=9c27b0" alt="GitHub Stats" />
+ &nbsp;
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenri1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=9c27b0" alt="Top Languages" />
+
 </p>
 
 ## 🛠️ Tecnologias
